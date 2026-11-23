@@ -24,3 +24,6 @@ veri_hazir/
 veri_ham/
 lab/veri_profili.json
 veri_ham_girdi/
+
+# Yerel Docker Compose yapılandırması
+docker-compose.yml
