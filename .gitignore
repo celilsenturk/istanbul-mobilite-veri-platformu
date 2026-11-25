@@ -27,3 +27,7 @@ veri_ham_girdi/
 
 # Yerel Docker Compose yapılandırması
 docker-compose.yml
+
+.DS_Store
+.idea/
+.env
